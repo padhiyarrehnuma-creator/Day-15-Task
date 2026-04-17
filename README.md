@@ -1,0 +1,1 @@
+A fully responsive fashion e-commerce website with 8 categories, product cards, search filter, wishlist and cart system, user rating and quantity features, image slider, popups, and a modern animated UI.
