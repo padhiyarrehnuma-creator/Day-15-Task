@@ -13,7 +13,7 @@ setInterval(nextSlide,3000);show();
 let data={
 "Clothing":[
 {name:"T-Shirt",price:499,img:"casual T-shirt.jpeg",discount:"10% OFF"},
-{name:"Shirt",price:799,img:"Shirts.png",discount:"15% OFF"},
+{name:"Shirt",price:799,img:"shirts.png",discount:"15% OFF"},
 {name:"Hoodie",price:1299,img:"hoodies.png",discount:"20% OFF"},
 {name:"Jacket",price:1599,img:"jacket.png",discount:"25% OFF"}
 ],
